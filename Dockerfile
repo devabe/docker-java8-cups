@@ -1,7 +1,7 @@
 #FROM re6exp/debian-jessie-oracle-jdk-8
 FROM hanazuki/cups
 
-MAINTAINER Akli BECHA <akli.becha@gmail.com>
+MAINTAINER Abe <contact@tafatek.com>
 
 # ---------
 # prepare folders
