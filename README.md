@@ -1,4 +1,4 @@
-# Oracle Java 8 image
+# Oracle Java 8 image with cups pdf installed
 
 This image is built to include latest version of Oracle JDK 8. It is based on [phusion/baseimage](https://registry.hub.docker.com/u/phusion/baseimage/) , so it inherts all goodies from it.
 
